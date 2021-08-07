@@ -1,0 +1,33 @@
+{
+  "name": "zeeshanahmad4",
+  "version": "1.0.0",
+  "description": "My Github Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeeshanahmad4/Zeeshanahmad4.git"
+  },
+  "keywords": [
+    "multilogin",
+    "python",
+    "automation",
+    "stealth",
+    "browsing",
+    "anti",
+    "detection",
+    "scraping",
+    "developer"
+  ],
+  "author": "zeeshan ahamd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeeshanahmad4/Zeeshanahmad4/issues"
+  },
+  "homepage": "https://github.com/Zeeshanahmad4/Zeeshanahmad4#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
