@@ -5,7 +5,7 @@
 <code> zeeshan.ahmad400</code>
 	</a>
   <span> ┃ </span>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
   <img align="center" alt="Abhishek Naidu | Twitter" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
 	<code>ahmadzee26@gmail.com</code>
 </a>
