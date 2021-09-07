@@ -10,7 +10,8 @@
 	<code>ahmadzee26@gmail.com</code>
 </a>
 	<span> ┃ </span>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+	
+<a href="https://t.me/zeeshanahmad4">
   <img align="center" alt="Abhishek's LinkedIN" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
 	<code>@zeeshanahmad4</code>
 </a>
