@@ -1,4 +1,4 @@
-
+<!-- 
 <div align="center">
 
 <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
@@ -25,3 +25,4 @@
   <strong>For Discussion, Quries and Freelance work. Do reach me 👆👆👆</strong>
 </div>
 <br />
+ -->
