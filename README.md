@@ -19,10 +19,11 @@
 	
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Zeeshanahmad4&repo=Facebook-Automation-bot-with-Multilogin-and-Proxies&countColor=%237B1E7A) -->
-</div>
+<!-- </div>
 
 <div align="center">
   <strong>For Discussion, Quries and Freelance work. Do reach me 👆👆👆</strong>
 </div>
 <br />
+ -->
  -->
