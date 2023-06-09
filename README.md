@@ -16,7 +16,7 @@
   </a>
   <span>┃</span>
   <a href="https://www.upwork.com/freelancers/zeeshanahmad291" style="margin-top: 12px;">
-    <img alt="Abhishek's Discord" width="70px" src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
+    <img alt="Abhishek's Discord" width="80px" src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
     <code>Zeeshan Ahmad</code>
   </a>
   
