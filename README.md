@@ -10,8 +10,9 @@
     <code>@zeeshanahmad4</code>
   </a>
   <span>┃</span>
+  
   <a href="" style="margin-top: 12px;">
-    <img alt="Abhishek's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    <img  width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
     <code>Zee#0291</code>
   </a>
   <span>┃</span>
