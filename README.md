@@ -1,4 +1,4 @@
-<!---<div align="center">
+<div align="center">
   <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
     <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
     <code>ahmadzee26@gmail.com</code>
@@ -25,4 +25,4 @@
   <br />
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
--->
+
